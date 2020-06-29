@@ -1,0 +1,2 @@
+# demoerd
+Berlatih ERD
